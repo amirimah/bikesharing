@@ -8,6 +8,12 @@ The following graph shows the chckout times for users. In this graph, there is a
 ![img1](https://github.com/amirimah/bikesharing/blob/main/checkout_times_for_users.png?raw=true)  
 The following graph shows the chckout times for users based on gender. In this graph, there is a peak in the first 10 minutes for bike checkouts for men (about 110k bikes), followed by women (about 35k bikes).     
 ![img2](https://github.com/amirimah/bikesharing/blob/main/checkout_times_by_gender.png?raw=true)  
-The following graphs, show trips by weekday per hour and it shows that there is a peak for bikes at around 8am and from 5-6pm. The breakdown fo bike stoptime based on gender can also be seen. Men use more bikes that women and those with unknown gender.  
-![img3](https://github.com/amirimah/bikesharing/blob/main/Trips_by_weekday_per_hour.png?raw=true)  
+The following graphs, show trips by weekday per hour and it shows that there is a peak for bikes at around 8am and from 5-6pm. The breakdown fo bike stoptime based on gender can also be seen. Men use more bikes that women and those with unknown gender. Additionally, during weekends, there is a peak between 12-5pm.  
+![img3](https://github.com/amirimah/bikesharing/blob/main/Trips_by_weekday_per_hour.png?raw=true)   
+![img4](https://github.com/amirimah/bikesharing/blob/main/Trips_by_gender.png?raw=true)  
+The following graph shows that male subscribers use the bikesharing more than both customers and other gender groups.  
+![img5](https://github.com/amirimah/bikesharing/blob/main/User_trips_by_gender.png?raw=true)   
+The last two graphs, show the hotspot locations for starting the bikesharing and ending bikesharing, respectively.  
+![img6](https://github.com/amirimah/bikesharing/blob/main/top_starting_locations.png?raw=true) 
+![img7](https://github.com/amirimah/bikesharing/blob/main/top_ending_locations.png?raw=true)  
 ## Summary 
