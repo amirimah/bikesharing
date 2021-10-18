@@ -20,3 +20,7 @@ The last two graphs, show the hotspot locations for starting the bikesharing and
 Based on the graphs, it can be concluded that the bikesharing idea is a solid business proposal in populated and busy areas, and the maintenance of bikes can be done after 1am where there is almost no demand for bikesharing.  
   
 To better solidify the proposal, I think the whole analysis should be done for the months of June and July as well. Additionally, I would also look at bike accident data and create a chart for the locations with most accidents to see if the proposal is still valid or not.  
+
+## 
+**Contact:**  
+**E-mail: mahtab.2010am@gmail.com**
